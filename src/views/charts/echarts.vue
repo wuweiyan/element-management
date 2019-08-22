@@ -1,4 +1,5 @@
 <template>
+<!-- 特殊表格 -->
     <section class="chart-container">
         <el-row>
             <el-col :span="12">
